@@ -1,0 +1,63 @@
+2013-04-01 01:20:40,036 [main] ERROR clientechat.ConexionServidor - El socket no se creo correctamente. 
+2013-04-01 01:20:41,221 [main] ERROR clientechat.ClienteChat - No se ha podido conectar con el servidor (Connection refused: connect).
+2013-04-01 01:20:41,221 [main] ERROR clientechat.ClienteChat - El socket no se creo correctamente. 
+2013-04-01 01:20:41,221 [main] ERROR clientechat.ClienteChat - El socket no se creo correctamente. 
+2013-04-01 01:21:11,080 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 1234 con el nombre de ususario: f.
+2013-04-01 01:21:11,095 [main] ERROR clientechat.ConexionServidor - El socket no se creo correctamente. 
+2013-04-01 01:24:14,397 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 1234 con el nombre de ususario: Usuario 1.
+2013-04-01 01:24:27,251 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 1234 con el nombre de ususario: Usuario 2.
+2013-04-01 01:24:43,537 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 1234 con el nombre de ususario: Usuario 3.
+2013-04-01 01:24:51,415 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 1234 con el nombre de ususario: Usuario 4.
+2013-04-01 01:24:58,342 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 1234 con el nombre de ususario: Usuario 5.
+2013-04-01 01:25:12,580 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 1234 con el nombre de ususario: Usuario 6.
+2013-04-01 01:25:32,015 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 1234 con el nombre de ususario: Usuario 7.
+2013-04-01 01:25:46,561 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 1234 con el nombre de ususario: Usuario 8.
+2013-04-01 01:25:54,002 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 1234 con el nombre de ususario: Usuario 9.
+2013-04-01 01:26:02,083 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 1234 con el nombre de ususario: Usuario 10.
+2013-04-01 01:26:10,757 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 1234 con el nombre de ususario: Usuario 11.
+2013-04-01 01:26:42,097 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 1234 con el nombre de ususario: Usuario 12.
+2013-04-01 20:12:49,108 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 1234 con el nombre de ususario: .
+2013-04-01 22:25:39,703 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 1234 con el nombre de ususario: .
+2013-04-01 22:26:38,749 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 1234 con el nombre de ususario: vdgf.
+2020-02-09 17:21:40,293 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 1234 con el nombre de ususario: telma.
+2020-02-09 17:24:08,007 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 5000 con el nombre de ususario: telma.
+2020-02-09 17:24:55,012 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 5000 con el nombre de ususario: 1.
+2020-02-09 19:07:24,989 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 1234 con el nombre de ususario: frghj.
+2020-02-09 19:08:07,230 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 1234 con el nombre de ususario: ghj.
+2020-02-09 19:08:09,590 [main] ERROR clientechat.ClienteChat - No se ha podido conectar con el servidor (Connection refused: connect).
+2020-02-09 19:45:17,717 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 1234 con el nombre de ususario: dfgh.
+2020-02-09 19:45:19,979 [main] ERROR clientechat.ClienteChat - No se ha podido conectar con el servidor (Connection refused: connect).
+2020-02-09 19:46:07,029 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 1234 con el nombre de ususario: erty.
+2020-02-09 19:46:09,118 [main] ERROR clientechat.ClienteChat - No se ha podido conectar con el servidor (Connection refused: connect).
+2020-02-09 19:47:02,141 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 1234 con el nombre de ususario: fgh.
+2020-02-09 19:47:04,217 [main] ERROR clientechat.ClienteChat - No se ha podido conectar con el servidor (Connection refused: connect).
+2020-02-09 19:47:29,185 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 1234 con el nombre de ususario: ghjk.
+2020-02-09 19:47:31,268 [main] ERROR clientechat.ClienteChat - No se ha podido conectar con el servidor (Connection refused: connect).
+2020-02-09 19:47:31,392 [main] ERROR clientechat.ConexionServidor - El socket no se creo correctamente. 
+2020-02-09 19:47:31,416 [main] ERROR clientechat.ClienteChat - El socket no se creo correctamente. 
+2020-02-09 19:47:31,420 [main] ERROR clientechat.ClienteChat - El socket no se creo correctamente. 
+2020-02-09 19:48:43,419 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 5000 con el nombre de ususario: fghj.
+2020-02-09 19:49:23,878 [main] ERROR clientechat.ClienteChat - Error al leer del stream de entrada: Connection reset
+2020-02-09 19:49:49,073 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 5000 con el nombre de ususario: fghj.
+2020-02-09 19:49:51,160 [main] ERROR clientechat.ClienteChat - No se ha podido conectar con el servidor (Connection refused: connect).
+2020-02-09 19:49:51,491 [main] ERROR clientechat.ConexionServidor - El socket no se creo correctamente. 
+2020-02-09 19:49:51,499 [main] ERROR clientechat.ClienteChat - El socket no se creo correctamente. 
+2020-02-09 19:49:51,499 [main] ERROR clientechat.ClienteChat - El socket no se creo correctamente. 
+2020-02-09 19:50:24,726 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 5000 con el nombre de ususario: ghj.
+2020-02-09 19:51:53,874 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 5000 con el nombre de ususario: rtyuj.
+2020-02-09 19:52:24,584 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 5000 con el nombre de ususario: tyuik.
+2020-02-10 12:08:39,455 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 5000 con el nombre de ususario: rtgyhujk.
+2020-02-10 12:08:41,668 [main] ERROR clientechat.ClienteChat - No se ha podido conectar con el servidor (Connection refused: connect).
+2020-02-10 12:08:42,241 [main] ERROR clientechat.ConexionServidor - El socket no se creo correctamente. 
+2020-02-10 12:08:42,241 [main] ERROR clientechat.ClienteChat - El socket no se creo correctamente. 
+2020-02-10 12:08:42,241 [main] ERROR clientechat.ClienteChat - El socket no se creo correctamente. 
+2020-02-10 12:11:51,070 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 1234 con el nombre de ususario: fghj.
+2020-02-10 12:11:53,577 [main] ERROR clientechat.ClienteChat - No se ha podido conectar con el servidor (Connection refused: connect).
+2020-02-10 12:11:53,770 [main] ERROR clientechat.ConexionServidor - El socket no se creo correctamente. 
+2020-02-10 12:11:54,373 [main] ERROR clientechat.ClienteChat - El socket no se creo correctamente. 
+2020-02-10 12:11:54,373 [main] ERROR clientechat.ClienteChat - El socket no se creo correctamente. 
+2020-02-10 13:11:53,032 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 5000 con el nombre de ususario: ghjkl.
+2020-02-10 13:11:55,204 [main] ERROR clientechat.ClienteChat - No se ha podido conectar con el servidor (Connection refused: connect).
+2020-02-10 13:11:55,501 [main] ERROR clientechat.ConexionServidor - El socket no se creo correctamente. 
+2020-02-10 13:11:56,610 [main] ERROR clientechat.ClienteChat - El socket no se creo correctamente. 
+2020-02-10 13:11:56,610 [main] ERROR clientechat.ClienteChat - El socket no se creo correctamente. 
